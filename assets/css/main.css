@@ -1663,7 +1663,7 @@ ol {
   position: fixed;
   z-index: 99;
   background-color: #fff;
-  color: #f00;
+  color: #f00 !important;
   -webkit-box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.05);
           box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.05);
   -webkit-transition: all 0.3s ease-out 0s;
